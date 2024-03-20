@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="32"
+    android:compileSdkVersionCodename="12"
+    package="jp.axel358.navbarheight"
+    platformBuildVersionCode="32"
+    platformBuildVersionName="12"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <overlay
+        android:priority="8003"
+        android:targetPackage="android"
+        android:isStatic="true" />
+   <application
+        android:label="Navigation Bar Height"
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>

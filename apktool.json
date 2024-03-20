@@ -1,0 +1,26 @@
+{
+  "apkFileName": "NavBarHeight.apk",
+  "VersionInfo": {
+    "versionName": "1.0",
+    "versionCode": "1"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {},
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": ["resources.arsc"],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-230127",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "29",
+    "targetSdkVersion": "29"
+  }
+}
